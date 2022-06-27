@@ -1,6 +1,6 @@
 👋 Hi, I’m @bronnyhub.
 - I am a young woman, who loves algorythms, learning and creating new things.
-- I am programming web sites in HTML for three years. Recently I started to work more on my passion.
+- I am programming web sites in HTML for four years. It was my biggest hobby. Recently I started to work more on my passion.
 
 👀 I know HTML, CSS, bootstrap and basics of python.
 - Simple pages with navbar, div's and containers are my favourite. I also love creating animations in CSS.
