@@ -1,14 +1,13 @@
-👋 Hi, I’m @bronnyhub.
-- I am a young woman, who loves algorythms, learning and creating new things.
-- I am programming web sites in HTML for four years. It was my biggest hobby. Recently I started to work more on my passion.
+👋 Hi, I’m Julia.
+	I am a young woman, who loves algorithms, learning, and creating new things. I've been programming websites in HTML for four years. Recently I started to working more on my passion.
 
-👀 I know HTML, CSS, bootstrap and basics of python.
-- Simple pages with navbar, div's and containers are my favourite. I also love creating animations in CSS.
+👀 I know HTML, CSS and the basics of python.
+	Simple pages with a navbar, div, and containers are my favorite. I also love creating small animations in CSS.
 
 🌱 I’m currently learning JavaScript.
-I am trying to upgrade my websites everyday. It contains learning new languages, frameworks and finding new solutions.
+	I am trying to upgrade my websites every day. It contains learning new programming languages, frameworks and finding new solutions.
+  
+📚 My career goals
+  One of my biggest dreams is to work in the IT industry. I am improving my skills every day with my projects on GitHub. 
 
-💞️ One of my dreams is to work from home as a front-end developer.
-- Working for a big company as a web developer is my dream job. I could create, analyse and still be into technics.
-
-📫 How to reach me on email: julka.bronny@gmail.com
+📫 How to reach me via email: julka.bronny@gmail.com
