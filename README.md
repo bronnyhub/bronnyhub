@@ -1,12 +1,9 @@
 ![Alt text](@bronnyhub.png "My banner")
 
 👋 <b> Hi, I’m Julia. </b></br>
-	I am a young woman, who loves algorithms, learning, and creating new things. I've been programming websites in HTML for four years. Recently I started to working more on my passion.
+	I am a young woman, who loves algorithms, learning, and creating new things. I've been programming websites for a few years now. Recently I started to working more on my passion.
 
-👀 <b>I know HTML, CSS and the basics of JavaScript. </b></br>
-	Simple pages with a navbar, div, and containers are my favorite. I also love creating small animations in CSS.
-
-🌱 <b>I’m currently learning React. </b></br>
+🌱 <b>I’m currently learning React and Python. </b></br>
 	I am trying to upgrade my websites every day. It contains learning new programming languages, frameworks and finding new solutions.
   
 📚 <b>My career goals. </b></br>
