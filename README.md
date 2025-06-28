@@ -9,7 +9,7 @@
 📚 <b>My career goals. </b></br>
 	One of my biggest dreams is to work in the IT industry. I am improving my skills every day with my projects on GitHub. 
 
-📫 How to reach me via email: <b>jb310600@student.polsl.pl</b>
+📫 How to reach me via email: <b>julia.bronny@outlook.com</b>
 
 
 <h3 align="left">Languages and Tools:</h3>
