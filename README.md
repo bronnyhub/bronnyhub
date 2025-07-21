@@ -3,7 +3,7 @@
 👋 <b> Hi, I’m Julia. </b></br>
 	I am a young woman, who loves algorithms, learning, and creating new things. I've been programming websites for a few years now. Recently I started to working more on my passion.
 
-🌱 <b>I’m currently learning Flutter and Python. </b></br>
+🌱 <b>I’m currently learning React and Python. </b></br>
 	I am trying to upgrade my websites every day. It contains learning new programming languages, frameworks and finding new solutions.
   
 📚 <b>My career goals. </b></br>
