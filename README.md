@@ -13,5 +13,5 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=vscode,github,html,css,js,react,matlab,py">
+<img src="https://skillicons.dev/icons?i=vscode,github,html,css,js,react,matlab,py,nodejs">
 
